@@ -362,28 +362,28 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
               <div id="booking" class="text-center">
               <p>Please fill in your details and the day you would like to visit. We'll contact you to confirm a time</p>
               <p>For same day booking, please call us first</p><br/>
-              <form role="form">
+              <form role="form" action="functions/sendmail.php" method="post">
                   <div class="row">
                       <div class="form-group col-lg-3">
                           <label>Name</label>
-                          <input type="text" class="form-control">
+                          <input type="text" id="name" class="form-control">
                       </div>
                       <div class="form-group col-lg-3">
                           <label>Email Address</label>
-                          <input type="email" class="form-control">
+                          <input type="email" id="email" class="form-control">
                       </div>
                       <div class="form-group col-lg-3">
                           <label>Phone Number</label>
-                          <input type="tel" class="form-control">
+                          <input type="tel" id="phone" class="form-control">
                       </div>
                       <div class="form-group col-lg-3">
                           <label>Requested Date</label>
-                          <input data-provide="datepicker" data-date-format="dd/mm/yyyy" class="form-control">
+                          <input id="date" data-provide="datepicker" data-date-format="dd/mm/yyyy" class="form-control">
                       </div>
                       <div class="clearfix"></div>
                       <div class="form-group col-lg-12">
                           <label>Message</label>
-                          <textarea class="form-control" rows="6"></textarea>
+                          <textareaid ="message" class="form-control" rows="6"></textarea>
                       </div>
                       <div class="form-group col-lg-12">
                           <input type="hidden" name="save" value="contact">
