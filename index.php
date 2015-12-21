@@ -9,7 +9,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Spa De Siam Brisbane Thai Massage">
+    <meta name="description" content="Authentic and relaxing Thai Massage conveniently located in East Brisbane">
+    <meta name="keywords" content="Brisbane,Thai,Massage,Relaxation,Aromatherapy,Traditional Thai Massage, Day Spa, Massage Therapist, Beauty Treatments, Deep Tissue Massage, Authentic"
     <meta name="author" content="TrentIT">
 
     <title>Spa De Siam</title>
