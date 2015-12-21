@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -35,6 +38,15 @@
 </head>
 
 <body>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=270123606431205";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
 
     <div class="brand"><img src="img/logo.jpg" height="200px"></div>
 
@@ -338,6 +350,9 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
               <p>Line ID:
                   <strong>spadesiam</strong>
               </p>
+              <p>Facebook:
+                  <strong><a href="https://www.facebook.com/spadesiambrisbane">Spa De Siam</a></strong>
+              </p>
               <p>Email:
                   <strong><a href="mailto:spadesiam@hotmail.com">spadesiam@hotmail.com</a></strong>
               </p>
@@ -345,6 +360,7 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
                   <strong>223 Wynnum Road
                       <br>Norman Park 4170</strong>
               </p>
+              <div class="fb-like" data-href="https://www.facebook.com/spadesiambrisbane" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
           </div>
 
   </div>
@@ -360,30 +376,31 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
               </h2>
               <hr>
               <div id="booking" class="text-center">
-              <p>Please fill in your details and the day you would like to visit. We'll contact you to confirm a time</p>
+              <p>Our current trading hours are Monday and Sunday, 9am - 9pm</p>
+              <p>Please fill in your details and we'll contact you to confirm a time and day</p>
               <p>For same day booking, please call us first</p><br/>
-              <form role="form" action="functions/sendmail.php" method="post">
+              <form role="form" id="enquiry" action="functions/sendmail.php" method="post">
                   <div class="row">
-                      <div class="form-group col-lg-3">
+                      <div class="form-group col-lg-4">
                           <label>Name</label>
-                          <input type="text" id="name" class="form-control">
+                          <input type="text" name="name" class="form-control">
                       </div>
-                      <div class="form-group col-lg-3">
+                      <div class="form-group col-lg-4">
                           <label>Email Address</label>
-                          <input type="email" id="email" class="form-control">
+                          <input type="email" name="email" class="form-control">
                       </div>
-                      <div class="form-group col-lg-3">
+                      <div class="form-group col-lg-4">
                           <label>Phone Number</label>
-                          <input type="tel" id="phone" class="form-control">
+                          <input type="tel" name="phone" class="form-control">
                       </div>
-                      <div class="form-group col-lg-3">
+          <!--            <div class="form-group col-lg-3">
                           <label>Requested Date</label>
-                          <input id="date" data-provide="datepicker" data-date-format="dd/mm/yyyy" class="form-control">
-                      </div>
-                      <div class="clearfix"></div>
+                          <input name="date" class="form-control datepicker">
+                      </div> -->
+
                       <div class="form-group col-lg-12">
                           <label>Message</label>
-                          <textareaid ="message" class="form-control" rows="6"></textarea>
+                          <textarea name="message" class="form-control" rows="6"></textarea>
                       </div>
                       <div class="form-group col-lg-12">
                           <input type="hidden" name="save" value="contact">
@@ -401,6 +418,24 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
 
     </div>
     <!-- /.container -->
+
+    <div class="modal fade" tabindex="-1" role="dialog" id="okModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Success</h4>
+      </div>
+      <div class="modal-body">
+        <p>Your enquiry has been submitted. We'll be in touch!&hellip;</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
 
     <div class="scroll-top-wrapper ">
 	<span class="scroll-top-inner">
@@ -436,7 +471,7 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
   <script>
 
   $(function(){
-$('.datepicker').datepicker();
+
 Galleria.loadTheme('js/themes/classic/galleria.classic.min.js');
           Galleria.run('.galleria');
 
@@ -459,6 +494,20 @@ Galleria.loadTheme('js/themes/classic/galleria.classic.min.js');
   	offsetTop = offset.top;
   	$('html, body').animate({scrollTop: offsetTop}, 500, 'linear');
   }
+  $( "#enquiry" ).submit(function( event ) {
+      event.preventDefault();
+
+      $.ajax({
+      type: "POST",
+      url: 'functions/sendmail.php',
+      data: $('#enquiry').serialize(),
+      success: function () {
+                 $('#okModal').modal('show');
+               }
+    });
+
+  });
+
     </script>
 
 </body>

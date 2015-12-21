@@ -10,24 +10,19 @@
 
 $name = $_POST['name'];
 $email = $_POST['email'];
-$date = $_POST['date'];
+//$date = $_POST['date'];
+$phone = $_POST['phone'];
 $message = $_POST['message'];
 
 
- $text = "Hi!\nHow are you?\n";
- $html = "<html>
-       <head></head>
-       <body>". $name . $email . $date. $message ."
-           <p>Hi!<br>
-               How are you?<br>
-           </p>
-       </body>
-       </html>";
+ $text = "Hi, you have received a booking enquiry from ". $name.
+ "<br/>Their contact details are: <br/>Email: ". $email. " <br/>Phone: ". $phone. "<br/>They have written this message: ". $message."<br/>Please contact ". $name. " to confirm their request";
+
  // This is your From email address
- $from = array('booking@spadesiam.com.au' => Booking Enquiry);
+ $from = array('booking@spadesiam.com.au' => 'Booking Enquiry');
  // Email recipients
  $to = array(
-       'trentbrookes@gmail.com'=>'Trent'
+       'spadesiam@hotmail.com'=>'Spa De Siam'
  );
  // Email subject
  $subject = 'Booking Enquiry';
@@ -47,9 +42,9 @@ $message = $_POST['message'];
 
  // attach the body of the email
  $message->setFrom($from);
- $message->setBody($html, 'text/html');
+ $message->setBody($text, 'text/html');
  $message->setTo($to);
- $message->addPart($text, 'text/plain');
+
 
  // send message
  if ($recipients = $swift->send($message, $failures))
