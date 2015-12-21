@@ -376,7 +376,7 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
               </h2>
               <hr>
               <div id="booking" class="text-center">
-              <p>Our current trading hours are Monday and Sunday, 9am - 9pm</p>
+              <p>Our current trading hours are Monday - Sunday, 9am - 9pm</p>
               <p>Please fill in your details and we'll contact you to confirm a time and day</p>
               <p>For same day booking, please call us first</p><br/>
               <form role="form" id="enquiry" action="functions/sendmail.php" method="post">
