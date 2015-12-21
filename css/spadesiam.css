@@ -41,6 +41,9 @@ hr {
 .address-bar {
     display: none;
 }
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
 
 .navbar-brand {
     text-transform: uppercase;
@@ -81,8 +84,8 @@ hr {
 .box {
     margin-bottom: 20px;
     padding: 30px 15px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+    background: #FFFBF3;
+      background: rgba(253,242,222,0.95);
 }
 
 .intro-text {
@@ -104,8 +107,8 @@ hr {
 }
 
 footer {
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+    background: #FFFBF3;
+    background: rgba(253,242,222,0.95);
 }
 
 footer p {
@@ -125,6 +128,7 @@ footer p {
         font-weight: 700;
         line-height: normal;
         color: #fff;
+        background-color:#FDF2DE;
     }
 
     .top-divider {
@@ -163,8 +167,7 @@ footer p {
 
     .navbar-default {
         border: none;
-        background: #fff;
-        background: rgba(255,255,255,0.9);
+        background: #DAC8A9;
     }
 
     .nav>li>a {
@@ -184,7 +187,9 @@ footer p {
     }
 }
 
-
+.galleria {
+  height:700px;
+}
 
 
 .scroll-top-wrapper {
@@ -194,7 +199,7 @@ footer p {
 	overflow: hidden;
 	text-align: center;
 	z-index: 99999999;
-    background-color: #777777;
+    background-color: #dac8a9;
 	color: #eeeeee;
 	width: 50px;
 	height: 48px;
@@ -213,7 +218,7 @@ footer p {
 	transition: all 0.5s ease-in-out;
 }
 .scroll-top-wrapper:hover {
-	background-color: #888888;
+	background-color: #b8a176;
 }
 .scroll-top-wrapper.show {
     visibility:visible;
