@@ -41,6 +41,19 @@ hr {
 .address-bar {
     display: none;
 }
+.navbar-default {
+  background: #DAC8A9;
+  border:none;
+}
+.navbar-default .navbar-brand {
+    color: black;
+}
+.navbar-toggle {
+  background: rgba(253,242,222,0.95);
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: black;
+}
 .navbar-default .navbar-nav>li>a {
     color: black;
 }
