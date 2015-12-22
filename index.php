@@ -150,7 +150,7 @@
                         <strong>Us</strong>
                     </h2>
                     <hr>
-                    <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">
+                <!--    <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">-->
                     <hr class="visible-xs">
                     <p><b><u>Spa facilities</u></b><br/>
 
