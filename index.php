@@ -76,10 +76,13 @@
                         <a href="#about">About Us</a>
                     </li>
                     <li>
-                        <a href="#services">Our Services</a>
+                        <a href="#services">Services</a>
                     </li>
                     <li>
-                        <a href="#location">Our Location</a>
+                        <a href="#packages">Packages</a>
+                    </li>
+                    <li>
+                        <a href="#location">Location</a>
                     </li>
                     <li>
                         <a href="#contact">Make a Booking</a>
@@ -299,6 +302,123 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
             </div>
         </div>
 </section>
+<section id="packages">
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Package
+                        <strong>Deals</strong>
+                    </h2>
+                    <hr>
+                    <div id="packageList" class=" row ">
+<span style="text-align:center;"><p><b>Spa Day Packages<b></p></span>
+                      <div id="pane1" class="col-lg-3">
+
+
+                      <i><u>1. De Siam Package</u></i><br/>
+                      This package contains:<br/>
+                      <ul><li>Traditional Thai Massage - 60 min</li>
+
+                      <li>Thai Herbal Ball Compress - 60 min</li>
+
+                      <li>Facial Treatment - 60 min </li>
+
+                      <li>Foot Massage - 30 min </li>
+
+                      <li><i>$279 - 3.5 hours total</i></li>
+                    </ul></div>
+                      <div id="pane2" class="col-lg-3">
+                      <i><u>2. Aromatic Body Treatment</u></i><br/>
+                      This package contains:<br/>
+                      <ul>
+                      <li>Aromatherapy Body Massage - 60 min</li>
+
+                      <li>Thai Herbal Ball Compress - 60 min</li>
+
+                      <li>Foot Massage - 30 min</li>
+
+                      <li><i>$199 - 2.5 hours total</i></li></ul></div>
+
+                      <div id="pane3" class="col-lg-3">
+
+                      <i><u>3. De Stress Head to Toe</u></i><br/>
+                      This package contains:<br/>
+                      <ul>
+                      <li>Traditional Thai Massage or Aromatherapy Body Massage - 60min</li>
+                      <li>Facial Treatment - 60 min</li>
+
+                      <li>Foot Massage - 30 min</li>
+
+                      <li><i>$199 - 2.5 hours total</i></li></ul></div>
+                      <div id="pane4" class="col-lg-3">
+                      <i><u>4. Royal de Siam</u></i><br/>
+                      This package contains:<br/>
+                      <ul>
+
+                      <li>Facial Treatment - 60 min</li>
+
+                      <li>Body Scrub Treatment - 30 min</li>
+
+                      <li>Body Stream Treatment - 30 min</li>
+
+                      <li>Mineral Milky Bath Soaks - 60 min</li>
+
+                      <li>Foot Massage - 30 min</li>
+
+                      <li><i>$289 - 3.5 hours total</i></li></ul>  </div>
+                      <div id="pane5" class="col-lg-3">
+
+                      <i><u>5. Pre-Wedding</u></i>
+                      <ul>
+                        This package contains:<br/>
+                      <li>Facial Treatment - 60 min</li>
+
+                      <li>Aromatherapy Body Massage or Traditional Thai Massage - 60 min</li>
+
+                      <li>Body Scrub Treatment - 30 min</li>
+
+                      <li>Body Stream Treatment - 30 min</li>
+
+                      <li>Mineral Milky Bath Soaks - 60 min</li>
+
+                      <li>Foot Massage - 30 min</li>
+
+                      <li><i>$369 - 4.5 hours total</i></li></ul></div>
+
+                    </div>
+                    <div id="miniPkgList" class=" row ">
+<span style="text-align:center;"><p><b>Mini De Siam Packages<b></p></span>
+                      <div id="pane6" class="col-lg-6">
+
+                      <i><u>1. Couples</u></i><br/>
+                      For 2 in a private couples room. Relaxation Massage (Traditional Thai
+
+                      or Aromatherapy Body Massage<br/><br/>
+
+                      <i>60 min - $159 | 90 min - $240</i>
+                    </div>
+                     <div id="pane7" class="col-lg-6">
+                      <i><u>2. Refresh 90 Min $129</u></i><br/>
+                      Choose one of:<br/><ul>
+                      <li>Facial treatment 60 min and Foot reflexology 30 min</li>
+
+                      <li>Traditional Thai or Aromatherapy Body Massage 60 min and Foot reflexology 30 min</li>
+
+
+                      <li>Milk bath soaks 60 min and Body scrub 30 min</li>
+
+                      <li>Body scrub 60 min and Body steam treatment 30 min</li>
+
+                      <li>Foot Reflexology 60 min and Head &amp; Neck &amp; Shoulder 30 min</li>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+        </div>
+</section>
 <section id="gallery">
   <div class="row">
       <div class="box">
@@ -352,7 +472,7 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
                   <strong>spadesiam</strong>
               </p>
               <p>Facebook:
-                  <strong><a href="https://www.facebook.com/spadesiambrisbane">Spa De Siam</a></strong>
+                  <strong><a href="https://www.facebook.com/spadesiambrisbane">spadesiambrisbane</a></strong>
               </p>
               <p>Email:
                   <strong><a href="mailto:spadesiam@hotmail.com">spadesiam@hotmail.com</a></strong>
