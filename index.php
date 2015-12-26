@@ -187,7 +187,7 @@ massage.</p>
 <li>Stimulates internal organs</li>
 <li>Relieves fatigue, swollen limbs, painful joints, and headaches</li>
 </ul></p>
-<img src="../img/special.jpg" class="img-responsive">
+<img src="../img/special.jpg" class="img-responsive" style="border-radius:20px;">
   <!--<img src="../img/corner2.png" class="corner pull-right">-->
                 </div>
             </div>
@@ -204,31 +204,27 @@ massage.</p>
                     </h2>
                     <hr>
                     <div id="serviceList" class="">
-                      <div id="split1" class="col-lg-6 text-center">
-                    <p><b>Traditional Thai Massage</b></p>
-                    <p><i>60 min - $89, 90 min - $129, 120 min $159</i></p>
-                    <p><b>Aromathery Body Massage</b></p>
-                    <p><i>60 min - $89, 90 min - $129, 120 min $159</i></p>
-                    <p><b>Traditional Thai Massage with Thai Herbal Ball Compress</b></b></p>
-                    <p><i>90 min - $139, 120 min - $169</i></p>
-                    <p><b>Foot Reflexology</b>.</p>
-                    <p><i>30 min - $49, 60 min - $89, 90 min - $129</i></p>
-                    <p><b>Body Scrub Treatment</b></p>
-                    <p><i>60 min - $99</i></p></div>
-                    <div id="split2" class="col-lg-6 text-center">
-                    <p><b>Facial Treatment</b></p>
-                    <p><i>60 min - $89</i></p>
-                    <p><b>Body Stream Treatment</b></p>
-                    <p><i>39 min - $59, 60 min - $119</i></p>
-                    <p><b>Milky Bath Soaks</b></p>
-                    <p><i>60 min - $89, 90 min - $129</i></p>
-                    <p><b>Head &amp; Neck &amp; Shoulder </b>e</p>
-                    <p><i>30 min - $49, 60 min - $89</i></p>
-                    <p><b>Pregnancy Massage</b></p>
-                    <p><i>60 min - $99, 90 min - $139</i></p></div>
-                    <img src="../img/corner2.png" class="corner pull-right">
-                  </div>
+                      <div id="split1" class="col-lg-4 ">
+                        <ul>
+                  <li>  <p><b>Traditional Thai Massage</b></p> </li>
+                  <li>  <p><b>Aromathery Body Massage</b></p> </li>
+                  <li>  <p><b>Traditional Thai Massage with <br/>Thai Herbal Ball Compress</b></b></p> </li>
+
+              </ul></div>
+                <div id="split2" class="col-lg-4 ">
+                  <ul>
+                      <li>  <p><b>Foot Reflexology</b>.</p> </li>
+            <li>  <p><b>Body Scrub Treatment</b></p></li>
+            <li>    <p><b>Facial Treatment</b></p> </li>
+              <li>    <p><b>Body Stream Treatment</b></p> </li>
+            </ul></div>
+                    <div id="split3" class="col-lg-4">
+              <ul>  <li>    <p><b>Milky Bath Soaks</b></p> </li>
+                    <li><p><b>Head &amp; Neck &amp; Shoulder </b></p></li>
+                  <li>  <p><b>Pregnancy Massage</b></p></li></ul></div>
+<b>*Prices start from $49, see menu for full details*</b>
                 </div>
+                <img src="../img/corner2.png" class="corner pull-right">
 
             </div>
         </div>
