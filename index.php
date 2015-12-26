@@ -187,8 +187,8 @@ massage.</p>
 <li>Stimulates internal organs</li>
 <li>Relieves fatigue, swollen limbs, painful joints, and headaches</li>
 </ul></p>
-
-  <img src="../img/corner2.png" class="corner pull-right">
+<img src="../img/special.jpg" class="img-responsive">
+  <!--<img src="../img/corner2.png" class="corner pull-right">-->
                 </div>
             </div>
         </div>
