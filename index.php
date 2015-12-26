@@ -24,7 +24,7 @@
 
     <!-- Custom CSS -->
     <link href="css/spadesiam.css" rel="stylesheet">
-
+<link rel="stylesheet" href="components/vegas/vegas.min.css">
     <!-- Fonts -->
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
@@ -146,6 +146,7 @@
         <div class="row">
             <div class="box">
                 <div class="col-lg-12">
+                  <img src="../img/corner3.png" class="corner2 pull-left">
                     <hr>
                     <h2 class="intro-text text-center">About
                         <strong>Us</strong>
@@ -187,79 +188,6 @@ massage.</p>
 <li>Relieves fatigue, swollen limbs, painful joints, and headaches</li>
 </ul></p>
 
-<p><b>Aromatic body massages</b><br/>
-
-Aromatherapy uses essential oils that are thought to have healing properties. These
-
-oils are the concentrated essences taken from the flowers, fruit, seeds, leaves and bark
-
-of certain plants. Aromatherapists believe aromatherapy can boost well being, relieve
-
-stress and help to refresh your body.</p>
-
-<p><b>Aromatherapy Full Body Massage Benefits</b></br>
-
-<ul>
-<li> Relaxes, balances and harmonizes the body</li>
-
-<li>Reduces stress</li>
-
-<li>Strengthens the entire body and supports the body in its own healing process</li>
-
-<li>Encourages a healthy immune system to fight infection</li>
-</ul></p>
-
-<p><b>Foot Reflexology Massage</b><br/>
-
-Thai Foot Massage is a massage of the feet and also lower legs. Thai foot massage is
-
-both invigorating and deeply relaxing and involves hands on massage, stretching and
-
-acupressure to stimulate reflex points. It has elements of Shiatsu, Reflexology, and
-
-Chinese massage, incorporated into the treatment. Traditional Thai Foot Massage
-
-includes the use of a traditional Thai foot massage stick as well as using the palms,
-
-fingers, thumbs and knuckles to work the feet. </p>
-
-<p><b>The Benefits of Foot Reflexology Massage</b>
-<ol>
-<li>It can relieve pain and stiffness caused by too much exercising or using muscle for
-
-too long</li>
-
-<li>It can help prevent and cure many symptoms such as headache, stress, asthma,
-
-constipation, sinusitis and migraine</li>
-
-<li>The blood circulation system will be boosted</li>
-
-<li>The body's function will be naturally turned into its homeostasis</li>
-</ol>
-</p>
-
-<p><b>Facial massage</b><br/>
-
-Facial massage is one kind of natural therapy that can give our face glow and tone.
-
-Just like any other type of massages, it gives a relaxing feeling, relieves tension and
-
-promotes good circulation of the blood to your face. It is also called an anti-aging
-
-treatment because it reduces wrinkles and tightens facial muscles. Facial massage also
-
-normalizes the moisture balance of the skin, helps in reducing impurities and toxins
-
-and increase radiance.</p>
-
-<p><b>Body scrub</b><br/>
-
- Besides feeling wonderful, body scrubs have several rejuvenating benefits for the
-
-skin. Body scrubs gently remove dead skin cells, dirt and oil from the outer layer of
-
-skin. This helps to unclog pores and expose your skin's underlying healthier layers.</p>
   <img src="../img/corner2.png" class="corner pull-right">
                 </div>
             </div>
@@ -269,36 +197,35 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
         <div class="row">
             <div class="box">
                 <div class="col-lg-12">
+                  <img src="../img/corner3.png" class="corner2 pull-left">
                     <hr>
                     <h2 class="intro-text text-center">Our
                         <strong>Services</strong>
                     </h2>
                     <hr>
                     <div id="serviceList" class="">
-                    <p><b>Traditional Thai Massage</b> - Full Body Massage, feel relaxed and pampered.</p>
-                    <p><i>60 min - $89 | 90 min - $129 | 120 min $159</i></p>
-                    <p><b>Aromathery Body Massage</b> - Full Body Thai Massage with the therapeutic effects of essential oils.</p>
-                    <p><i>60 min - $89 | 90 min - $129 | 120 min $159</i></p>
-                    <p><b>Traditional Thai Massage with Thai Herbal Ball Compress</b> - This traditional treatment is used to soothe muscle tension and stiffness
-                      in key areas. The combination of heat and natural herbs is absorbed by the body to help aches.</b></p>
-                    <p><i>90 min - $139 | 120 min - $169</i></p>
-                    <p><b>Foot Reflexology</b> - is a massage of the feet and also lower legs. Traditional Thai Foot Massage includes the use of a traditional Thai foot massage stick as well as
-                      using the palms, fngers, thumbs and knuckles to work the feet.</p>
-                    <p><i>30 min - $49 | 60 min - $89 | 90 min - $129</i></p>
-                    <p><b>Body Scrub Treatment</b> - Body scrubs gently removes dead skin cells, dirt and oil from the outer layer of skin. This helps to unclog pores and expose your skin's underlying
-                      healthier layers.</p>
-                    <p><i>60 min - $99</i></p>
-                    <p><b>Facial Treatment</b> - is one kind of natural therapy that can give our face glow and tone. Just like any other type of massages, it gives a relaxing feeling, relieves tension and
-                      promotes good circulation of the blood to your face.</p>
+                      <div id="split1" class="col-lg-6 text-center">
+                    <p><b>Traditional Thai Massage</b></p>
+                    <p><i>60 min - $89, 90 min - $129, 120 min $159</i></p>
+                    <p><b>Aromathery Body Massage</b></p>
+                    <p><i>60 min - $89, 90 min - $129, 120 min $159</i></p>
+                    <p><b>Traditional Thai Massage with Thai Herbal Ball Compress</b></b></p>
+                    <p><i>90 min - $139, 120 min - $169</i></p>
+                    <p><b>Foot Reflexology</b>.</p>
+                    <p><i>30 min - $49, 60 min - $89, 90 min - $129</i></p>
+                    <p><b>Body Scrub Treatment</b></p>
+                    <p><i>60 min - $99</i></p></div>
+                    <div id="split2" class="col-lg-6 text-center">
+                    <p><b>Facial Treatment</b></p>
                     <p><i>60 min - $89</i></p>
-                    <p><b>Body Stream Treatment</b> - gives your muscles are relaxed, your sinuses are clear and your skin feels smooth and hydrated</p>
-                    <p><i>39 min - $59 | 60 min - $119</i></p>
-                    <p><b>Milky Bath Soaks</b> - help to moisturize your skin, proteins found in milk help to hydrate skin and retain moisture after you step out.</p>
-                    <p><i>60 min - $89 | 90 min - $129</i></p>
-                    <p><b>Head &amp; Neck &amp; Shoulder </b> - Our head, neck and shoulder massage is beautifully relaxing and targets all the places you hold the most tension - the head, neck and shoulders.</p>
-                    <p><i>30 min - $49 | 60 min - $89</i></p>
-                    <p><b>Pregnancy Massage</b> - It reduces swollen painful legs and feet, reduces muscle cramps and back pain and calms the nervous system, aiding comfortable sleep.</p>
-                    <p><i>60 min - $99 | 90 min - $139</i></p>
+                    <p><b>Body Stream Treatment</b></p>
+                    <p><i>39 min - $59, 60 min - $119</i></p>
+                    <p><b>Milky Bath Soaks</b></p>
+                    <p><i>60 min - $89, 90 min - $129</i></p>
+                    <p><b>Head &amp; Neck &amp; Shoulder </b>e</p>
+                    <p><i>30 min - $49, 60 min - $89</i></p>
+                    <p><b>Pregnancy Massage</b></p>
+                    <p><i>60 min - $99, 90 min - $139</i></p></div>
                     <img src="../img/corner2.png" class="corner pull-right">
                   </div>
                 </div>
@@ -311,114 +238,79 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
         <div class="row">
             <div class="box">
                 <div class="col-lg-12">
+                  <img src="../img/corner3.png" class="corner2 pull-left">
                     <hr>
                     <h2 class="intro-text text-center">Package
                         <strong>Deals</strong>
                     </h2>
                     <hr>
-                    <div id="packageList" class=" row ">
+                    <div id="packageList" class=" row-centered ">
 <span style="text-align:center;"><p><b>Spa Day Packages<b></p></span>
-                      <div id="pane1" class="col-lg-4">
+                      <div id="panel1" class="panel panel-default col-centered col-lg-4">
 
 
-                      <i><u>1. De Siam Package</u></i><br/>
 
-                      <ul><li>Traditional Thai Massage - 60 min</li>
 
-                      <li>Thai Herbal Ball Compress - 60 min</li>
+                      <div class="vegasPnl panel-body" data-toggle="modal" data-target="#modal1">
 
-                      <li>Facial Treatment - 60 min </li>
 
-                      <li>Foot Massage - 30 min </li>
 
-                      <li><i>$279 - 3.5 hours total</i></li>
-                    </ul></div>
-                      <div id="pane2" class="col-lg-4">
-                      <i><u>2. Aromatic Body Treatment</u></i><br/>
 
-                      <ul>
-                      <li>Aromatherapy Body Massage - 60 min</li>
+            <span class="panelText">De Siam Package<br/>
+                      3.5 hours - $279</span></div>
+                  </div>
+                      <div id="panel2" class="panel panel-default col-centered col-lg-4">
 
-                      <li>Thai Herbal Ball Compress - 60 min</li>
 
-                      <li>Foot Massage - 30 min</li>
+                    <div class="vegasPnl panel-body" data-toggle="modal" data-target="#modal2">
 
-                      <li><i>$199 - 2.5 hours total</i></li></ul></div>
+                      <span class="panelText">Aromatic Body Treatment<br/>
 
-                      <div id="pane3" class="col-lg-4">
+                      2.5 hours - $199</span>
+                    </div></div>
 
-                      <i><u>3. De Stress Head to Toe</u></i><br/>
+                      <div id="panel3" class="panel panel-default col-centered col-lg-4">
 
-                      <ul>
-                      <li>Traditional Thai Massage or Aromatherapy Body Massage - 60min</li>
-                      <li>Facial Treatment - 60 min</li>
 
-                      <li>Foot Massage - 30 min</li>
 
-                      <li><i>$199 - 2.5 hours total</i></li></ul></div>
-                      <div id="pane4" class="col-lg-4">
-                      <i><u>4. Royal de Siam</u></i><br/>
-                      This package contains:<br/>
-                      <ul>
+                    <div class="vegasPnl panel-body" data-toggle="modal" data-target="#modal3">
 
-                      <li>Facial Treatment - 60 min</li>
+                      <span class="panelText">De Stress Head to Toe<br/>
+                      2.5 hours - $199</span</div></div></div>
+                      <div class="row-centered">
 
-                      <li>Body Scrub Treatment - 30 min</li>
+                      <div id="panel4" class="panel panel-default col-centered col-lg-4">
 
-                      <li>Body Stream Treatment - 30 min</li>
 
-                      <li>Mineral Milky Bath Soaks - 60 min</li>
 
-                      <li>Foot Massage - 30 min</li>
+                    <div class="vegasPnl panel-body" data-toggle="modal" data-target="#modal4">
 
-                      <li><i>$289 - 3.5 hours total</i></li></ul>  </div>
-                      <div id="pane5" class="col-lg-4">
+                      <span class="panelText">Royal de Siam<br/>
+                      3.5 hours - $289</span></div></div>
+                      <div id="panel5" class="panel panel-default col-centered col-lg-4">
 
-                      <i><u>5. Pre-Wedding</u></i>
-                      <ul>
+                      <div class="vegasPnl panel-body" data-toggle="modal" data-target="#modal5">
 
-                      <li>Facial Treatment - 60 min</li>
-
-                      <li>Aromatherapy Body Massage or Traditional Thai Massage - 60 min</li>
-
-                      <li>Body Scrub Treatment - 30 min</li>
-
-                      <li>Body Stream Treatment - 30 min</li>
-
-                      <li>Mineral Milky Bath Soaks - 60 min</li>
-
-                      <li>Foot Massage - 30 min</li>
-
-                      <li><i>$369 - 4.5 hours total</i></li></ul></div>
+                        <span class="panelText">Pre-Wedding</br/>
+                      4.5 hours - $369</span></div></div>
 
                     </div>
                     <div id="miniPkgList" class=" row ">
 <span style="text-align:center;"><p><b>Mini De Siam Packages<b></p></span>
-                      <div id="pane6" class="col-lg-6">
+                      <div id="panel6" class="panel panel-default col-centered col-lg-6">
+                        <div class="vegasPnl panel-body" data-toggle="modal" data-target="#modal6">
+                      <span class="panelText">Couples<br/>
 
-                      <i><u>1. Couples</u></i><br/>
-                      For 2 in a private couples room. Relaxation Massage (Traditional Thai
-
-                      or Aromatherapy Body Massage<br/><br/>
-
-                      <i>60 min - $159 | 90 min - $240</i>
+                      60 min - $159<br/>90 min - $240</span></div>
                     </div>
-                     <div id="pane7" class="col-lg-6">
-                      <i><u>2. Refresh 90 Min $129</u></i><br/>
-                      Choose one of:<br/><ul>
-                      <li>Facial treatment 60 min and Foot reflexology 30 min</li>
+                     <div id="panel7" class="panel panel-default col-centered col-lg-6">
+                       <div class="vegasPnl panel-body" data-toggle="modal" data-target="#modal7">
+                         <span class="panelText">Refresh</br>
+                      90 min - $129</span></div>
 
-                      <li>Traditional Thai or Aromatherapy Body Massage 60 min and Foot reflexology 30 min</li>
-
-
-                      <li>Milk bath soaks 60 min and Body scrub 30 min</li>
-
-                      <li>Body scrub 60 min and Body steam treatment 30 min</li>
-
-                      <li>Foot Reflexology 60 min and Head &amp; Neck &amp; Shoulder 30 min</li>
                     </div>
-                    <img src="../img/corner2.png" class="corner pull-right">
-                    
+
+<img src="../img/corner2.png" class="corner pull-right">
                     </div>
                   </div>
                 </div>
@@ -428,7 +320,9 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
 <section id="gallery">
   <div class="row">
       <div class="box">
+
           <div class="col-lg-12">
+
               <hr>
               <h2 class="intro-text text-center">Our
                   <strong>Gallery</strong>
@@ -448,6 +342,12 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
     <img src="img/10.jpg">
     <img src="img/11.jpg">
     <img src="img/12.jpg">
+    <img src="img/13.jpg">
+    <img src="img/14.jpg">
+    <img src="img/15.jpg">
+    <img src="img/16.jpg">
+    <img src="img/17.jpg">
+    <img src="img/18.jpg">
           </div>
 
   </div>
@@ -456,7 +356,9 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
 <section id="location">
   <div class="row">
       <div class="box" id="location">
+
           <div class="col-lg-12">
+
               <hr>
               <h2 class="intro-text text-center">Our
                   <strong>Location</strong>
@@ -488,10 +390,13 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
                       <br>Norman Park 4170</strong>
               </p>
               <div class="fb-like" data-href="https://www.facebook.com/spadesiambrisbane" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
           </div>
 
    </div>
+
   </div>
+
 </section>
 
 <section id="contact">
@@ -509,22 +414,22 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
               <p>For same day booking, please call us first</p><br/>
               <form role="form" id="enquiry" action="functions/sendmail.php" method="post">
                   <div class="row">
-                      <div class="form-group col-lg-4">
+                      <div class="form-group col-lg-3">
                           <label>Name</label>
                           <input type="text" name="name" class="form-control">
                       </div>
-                      <div class="form-group col-lg-4">
+                      <div class="form-group col-lg-3">
                           <label>Email Address</label>
                           <input type="email" name="email" class="form-control">
                       </div>
-                      <div class="form-group col-lg-4">
+                      <div class="form-group col-lg-3">
                           <label>Phone Number</label>
                           <input type="tel" name="phone" class="form-control">
                       </div>
-          <!--            <div class="form-group col-lg-3">
+                 <div class="form-group col-lg-3">
                           <label>Requested Date</label>
                           <input name="date" class="form-control datepicker">
-                      </div> -->
+                      </div>
 
                       <div class="form-group col-lg-12">
                           <label>Message</label>
@@ -534,10 +439,12 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
                           <input type="hidden" name="save" value="contact">
                           <button type="submit" class="btn btn-default">Submit</button>
                       </div>
+
                   </div>
               </form>
             </div>
           </div>
+
       </div
       <div class="clearfix"></div>
   </div>
@@ -580,12 +487,194 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
             </div>
         </div>
     </footer>
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">De Siam Package</h4>
+          </div>
+          <div class="modal-body">
+            <ul><li>Traditional Thai Massage - 60 min</li>
+
+              <li>Thai Herbal Ball Compress - 60 min</li>
+
+              <li>Facial Treatment - 60 min </li>
+
+              <li>Foot Massage - 30 min </li></ul>
+              Total Time: 3.5 hours<br/>
+              Price: $279
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Aromatic Body Treatment</h4>
+          </div>
+          <div class="modal-body">
+            <ul>
+              <li>Aromatherapy Body Massage - 60 min</li>
+
+              <li>Thai Herbal Ball Compress - 60 min</li>
+
+              <li>Foot Massage - 30 min</li>
+
+              <li><i>2.5 hours - $199</i></li></ul>
+              Total Time: 2.5 hours<br/>
+              Price: $199
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">De Stress Head to Toe</h4>
+          </div>
+          <div class="modal-body">
+            <ul>
+            <li>Traditional Thai Massage or Aromatherapy Body Massage - 60min</li>
+            <li>Facial Treatment - 60 min</li>
+
+            <li>Foot Massage - 30 min</li>
+          </ul>
+              Total Time: 2.5 hours<br/>
+              Price: $199
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Royal De Siam</h4>
+          </div>
+          <div class="modal-body">
+             <ul>
+
+                      <li>Facial Treatment - 60 min</li>
+
+                      <li>Body Scrub Treatment - 30 min</li>
+
+                      <li>Body Stream Treatment - 30 min</li>
+
+                      <li>Mineral Milky Bath Soaks - 60 min</li>
+
+                      <li>Foot Massage - 30 min</li>
+                    </ul>
+              Total Time: 3.5 hours<br/>
+              Price: $289
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal fade" id="modal5" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Pre-Wedding</h4>
+          </div>
+          <div class="modal-body">
+               <ul>
+
+                    <li>Facial Treatment - 60 min</li>
+
+                    <li>Aromatherapy Body Massage or Traditional Thai Massage - 60 min</li>
+
+                    <li>Body Scrub Treatment - 30 min</li>
+
+                    <li>Body Stream Treatment - 30 min</li>
+
+                    <li>Mineral Milky Bath Soaks - 60 min</li>
+
+                    <li>Foot Massage - 30 min</li></ul>
+              Total Time: 4.5 hours<br/>
+              Price: $369
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal fade" id="modal6" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Couples</h4>
+          </div>
+          <div class="modal-body">
+              For 2 in a private couples room. Relaxation Massage (Traditional Thai
+
+                or Aromatherapy Body Massage<br/><br/>
+
+              60 mins - $159<br/>
+              90 mins - $240
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal fade" id="modal7" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Refresh</h4>
+          </div>
+          <div class="modal-body">
+               Choose one of:<br/><ul>
+                <li>Facial treatment 60 min and Foot reflexology 30 min</li>
+
+                <li>Traditional Thai or Aromatherapy Body Massage 60 min and Foot reflexology 30 min</li>
+
+
+                <li>Milk bath soaks 60 min and Body scrub 30 min</li>
+
+                <li>Body scrub 60 min and Body steam treatment 30 min</li>
+
+                <li>Foot Reflexology 60 min and Head &amp; Neck &amp; Shoulder 30 min</li></ul>
+              Total Time: 90 mins<br/>
+              Price: $129
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 <script src="js/galleria-1.4.2.min.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+    <script src="components/vegas/vegas.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.5.0/js/bootstrap-datepicker.js"></script>
 
 
@@ -600,6 +689,45 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
 
   $(function(){
 
+    $('.datepicker').datepicker({
+    format: 'dd/mm/yyyy',
+    startDate: '+1d'
+})
+    $("#panel1").vegas({
+        slides: [
+            { src: "img/panel1.jpg" }],
+        cover:true
+    });
+    $("#panel2").vegas({
+        slides: [
+            { src: "img/panel2.jpg" }],
+        cover:true
+    });
+    $("#panel3").vegas({
+        slides: [
+            { src: "img/panel3.jpg" }],
+        cover:true
+    });
+    $("#panel4").vegas({
+        slides: [
+            { src: "img/panel4.jpg" }],
+        cover:true
+    });
+    $("#panel5").vegas({
+        slides: [
+            { src: "img/panel5.jpg" }],
+        cover:true
+    });
+    $("#panel6").vegas({
+        slides: [
+            { src: "img/panel6.jpg" }],
+        cover:true
+    });
+    $("#panel7").vegas({
+        slides: [
+            { src: "img/panel7.jpg" }],
+        cover:true
+    });
 Galleria.loadTheme('js/themes/classic/galleria.classic.min.js');
           Galleria.run('.galleria');
 

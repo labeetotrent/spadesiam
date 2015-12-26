@@ -10,22 +10,22 @@
 
 $name = $_POST['name'];
 $email = $_POST['email'];
-//$date = $_POST['date'];
+$date = $_POST['date'];
 $phone = $_POST['phone'];
 $message = $_POST['message'];
 
 
- $text = "Hi, you have received a booking enquiry from ". $name.
- "<br/>Their contact details are: <br/>Email: ". $email. " <br/>Phone: ". $phone. "<br/>They have written this message: ". $message."<br/>Please contact ". $name. " to confirm their request";
+ $text = "Hi, you have received a Spa De Siam Booking Enquiry from ". $name.
+ ".<br/>Their contact details are: <br/>Email: ". $email. " <br/>Phone: ". $phone.  "<br/>They would like to book on " . $date. ".<br/>They have written this message: ". $message."<br/><br/>Please contact ". $name. " to confirm their request";
 
  // This is your From email address
- $from = array('booking@spadesiam.com.au' => 'Booking Enquiry');
+ $from = array('booking@spadesiam.com.au' => 'Booking');
  // Email recipients
  $to = array(
        'spadesiam@hotmail.com'=>'Spa De Siam'
  );
  // Email subject
- $subject = 'Booking Enquiry';
+ $subject = 'Booking Enquiry from Website';
 
  // Login credentials
  $username = 'azure_03c8e783e3d9a6911bee238eb5b7ba19@azure.com';
