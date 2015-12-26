@@ -310,7 +310,7 @@ massage.</p>
 
                     </div>
 
-<img src="../img/corner2.png" class="corner pull-right">
+
                     </div>
                   </div>
                 </div>
@@ -729,7 +729,9 @@ massage.</p>
         cover:true
     });
 Galleria.loadTheme('js/themes/classic/galleria.classic.min.js');
-          Galleria.run('.galleria');
+Galleria.run('.galleria', {
+    autoplay: 7000 // will move forward every 7 seconds
+});
 
   	$(document).on( 'scroll', function(){
 
