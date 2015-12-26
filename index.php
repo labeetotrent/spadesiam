@@ -28,7 +28,8 @@
     <!-- Fonts -->
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
-
+    <link href='https://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Courgette' rel='stylesheet' type='text/css'>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -152,7 +153,7 @@
                     <hr>
                 <!--    <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">-->
                     <hr class="visible-xs">
-                    <p><b><u>Spa facilities</u></b><br/>
+                    <p><b>Spa facilities</b><br/>
 
  4 treatment rooms and 1 suite with private bath are available for your relaxation. A
 
@@ -161,7 +162,7 @@ separate room for body treatment has been designed to enable you to enjoy the mo
 rejuvenating treatment.</p>
 
 
-<p><b><u>Thai Massage</u></b><br/>
+<p><b>Thai Massage</b><br/>
 
 Thai massage, also known as Nuad bo-Rarn in its traditional medical form, is a type
 
@@ -186,7 +187,7 @@ massage.</p>
 <li>Relieves fatigue, swollen limbs, painful joints, and headaches</li>
 </ul></p>
 
-<p><b><u>Aromatic body massages</u></b><br/>
+<p><b>Aromatic body massages</b><br/>
 
 Aromatherapy uses essential oils that are thought to have healing properties. These
 
@@ -196,7 +197,7 @@ of certain plants. Aromatherapists believe aromatherapy can boost well being, re
 
 stress and help to refresh your body.</p>
 
-<p><b><u>AROMATHERAPY FULL BODY MASSAGE BENEFITS</u></b></br>
+<p><b>Aromatherapy Full Body Massage Benefits</b></br>
 
 <ul>
 <li> Relaxes, balances and harmonizes the body</li>
@@ -208,7 +209,7 @@ stress and help to refresh your body.</p>
 <li>Encourages a healthy immune system to fight infection</li>
 </ul></p>
 
-<p><b><u>Foot Reflexology Massage</u></b><br/>
+<p><b>Foot Reflexology Massage</b><br/>
 
 Thai Foot Massage is a massage of the feet and also lower legs. Thai foot massage is
 
@@ -238,7 +239,7 @@ constipation, sinusitis and migraine</li>
 </ol>
 </p>
 
-<p><b><u>Facial massage</u></b><br/>
+<p><b>Facial massage</b><br/>
 
 Facial massage is one kind of natural therapy that can give our face glow and tone.
 
@@ -252,13 +253,14 @@ normalizes the moisture balance of the skin, helps in reducing impurities and to
 
 and increase radiance.</p>
 
-<p><b><u>Body scrub</u></b><br/>
+<p><b>Body scrub</b><br/>
 
  Besides feeling wonderful, body scrubs have several rejuvenating benefits for the
 
 skin. Body scrubs gently remove dead skin cells, dirt and oil from the outer layer of
 
 skin. This helps to unclog pores and expose your skin's underlying healthier layers.</p>
+  <img src="../img/corner2.png" class="corner pull-right">
                 </div>
             </div>
         </div>
@@ -272,7 +274,7 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
                         <strong>Services</strong>
                     </h2>
                     <hr>
-                    <div id="serviceList" class="text-center">
+                    <div id="serviceList" class="">
                     <p><b>Traditional Thai Massage</b> - Full Body Massage, feel relaxed and pampered.</p>
                     <p><i>60 min - $89 | 90 min - $129 | 120 min $159</i></p>
                     <p><b>Aromathery Body Massage</b> - Full Body Thai Massage with the therapeutic effects of essential oils.</p>
@@ -297,8 +299,10 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
                     <p><i>30 min - $49 | 60 min - $89</i></p>
                     <p><b>Pregnancy Massage</b> - It reduces swollen painful legs and feet, reduces muscle cramps and back pain and calms the nervous system, aiding comfortable sleep.</p>
                     <p><i>60 min - $99 | 90 min - $139</i></p>
+                    <img src="../img/corner2.png" class="corner pull-right">
                   </div>
                 </div>
+
             </div>
         </div>
 </section>
@@ -314,11 +318,11 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
                     <hr>
                     <div id="packageList" class=" row ">
 <span style="text-align:center;"><p><b>Spa Day Packages<b></p></span>
-                      <div id="pane1" class="col-lg-3">
+                      <div id="pane1" class="col-lg-4">
 
 
                       <i><u>1. De Siam Package</u></i><br/>
-                      This package contains:<br/>
+
                       <ul><li>Traditional Thai Massage - 60 min</li>
 
                       <li>Thai Herbal Ball Compress - 60 min</li>
@@ -329,9 +333,9 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
 
                       <li><i>$279 - 3.5 hours total</i></li>
                     </ul></div>
-                      <div id="pane2" class="col-lg-3">
+                      <div id="pane2" class="col-lg-4">
                       <i><u>2. Aromatic Body Treatment</u></i><br/>
-                      This package contains:<br/>
+
                       <ul>
                       <li>Aromatherapy Body Massage - 60 min</li>
 
@@ -341,10 +345,10 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
 
                       <li><i>$199 - 2.5 hours total</i></li></ul></div>
 
-                      <div id="pane3" class="col-lg-3">
+                      <div id="pane3" class="col-lg-4">
 
                       <i><u>3. De Stress Head to Toe</u></i><br/>
-                      This package contains:<br/>
+
                       <ul>
                       <li>Traditional Thai Massage or Aromatherapy Body Massage - 60min</li>
                       <li>Facial Treatment - 60 min</li>
@@ -352,7 +356,7 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
                       <li>Foot Massage - 30 min</li>
 
                       <li><i>$199 - 2.5 hours total</i></li></ul></div>
-                      <div id="pane4" class="col-lg-3">
+                      <div id="pane4" class="col-lg-4">
                       <i><u>4. Royal de Siam</u></i><br/>
                       This package contains:<br/>
                       <ul>
@@ -368,11 +372,11 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
                       <li>Foot Massage - 30 min</li>
 
                       <li><i>$289 - 3.5 hours total</i></li></ul>  </div>
-                      <div id="pane5" class="col-lg-3">
+                      <div id="pane5" class="col-lg-4">
 
                       <i><u>5. Pre-Wedding</u></i>
                       <ul>
-                        This package contains:<br/>
+
                       <li>Facial Treatment - 60 min</li>
 
                       <li>Aromatherapy Body Massage or Traditional Thai Massage - 60 min</li>
@@ -413,6 +417,8 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
 
                       <li>Foot Reflexology 60 min and Head &amp; Neck &amp; Shoulder 30 min</li>
                     </div>
+                    <img src="../img/corner2.png" class="corner pull-right">
+                    
                     </div>
                   </div>
                 </div>
@@ -449,7 +455,7 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
 
 <section id="location">
   <div class="row">
-      <div class="box">
+      <div class="box" id="location">
           <div class="col-lg-12">
               <hr>
               <h2 class="intro-text text-center">Our
@@ -484,6 +490,7 @@ skin. This helps to unclog pores and expose your skin's underlying healthier lay
               <div class="fb-like" data-href="https://www.facebook.com/spadesiambrisbane" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
           </div>
 
+   </div>
   </div>
 </section>
 
