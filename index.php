@@ -146,7 +146,7 @@
         <div class="row">
             <div class="box">
                 <div class="col-lg-12">
-                  <img src="../img/corner3.png" class="corner2 pull-left">
+                <!--  <img src="../img/corner3.png" class="corner2 pull-left">-->
                     <hr>
                     <h2 class="intro-text text-center">About
                         <strong>Us</strong>
@@ -154,6 +154,7 @@
                     <hr>
                 <!--    <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">-->
                     <hr class="visible-xs">
+                    <img src="../img/special.jpg" class="img-responsive" style="border-radius:25px;">
                     <p><b>Spa facilities</b><br/>
 
  4 treatment rooms and 1 suite with private bath are available for your relaxation. A
@@ -187,8 +188,8 @@ massage.</p>
 <li>Stimulates internal organs</li>
 <li>Relieves fatigue, swollen limbs, painful joints, and headaches</li>
 </ul></p>
-<img src="../img/special.jpg" class="img-responsive">
-  <!--<img src="../img/corner2.png" class="corner pull-right">-->
+
+  <img src="../img/corner2.png" class="corner pull-right">
                 </div>
             </div>
         </div>
