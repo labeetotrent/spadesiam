@@ -143,14 +143,24 @@ background-color:#DAC8A9;
     /* inline-block space fix */
     margin-right:-4px;
 }
-
+form {
+  position:relative;
+  z-index:100;
+}
+.img-responsive {
+  position:relative;
+  z-index:100;
+}
+.vegas-overlay, .vegas-slide, .vegas-slide-inner, .vegas-timer, .vegas-wrapper {
+    z-index:100;
+}
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   max-height: 600px;    /* Set slide height here */
 
 }
-.carousel-inner {
-
+.galleria-theme-classic {
+  z-index:100;
 }
 .corner2 {
   position:absolute;

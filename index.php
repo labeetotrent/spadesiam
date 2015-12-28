@@ -152,7 +152,7 @@
                         <strong>Us</strong>
                     </h2>
                     <hr>
-                <!--    <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">-->
+                 <img class="img-responsive img-border img-left" src="img/chalita.jpg" alt="" style="border-radius:20px;">
                     <hr class="visible-xs">
                     <p><b>Spa facilities</b><br/>
 
@@ -188,7 +188,7 @@ massage.</p>
 <li>Relieves fatigue, swollen limbs, painful joints, and headaches</li>
 </ul></p>
 <img src="../img/special.jpg" class="img-responsive" style="border-radius:20px;">
-  <!--<img src="../img/corner2.png" class="corner pull-right">-->
+  <img src="../img/corner2.png" class="corner pull-right">
                 </div>
             </div>
         </div>
@@ -306,7 +306,7 @@ massage.</p>
 
                     </div>
 
-
+<img src="../img/corner2.png" class="corner pull-right">
                     </div>
                   </div>
                 </div>
@@ -318,13 +318,13 @@ massage.</p>
       <div class="box">
 
           <div class="col-lg-12">
-
+  <img src="../img/corner3.png" class="corner2 pull-left">
               <hr>
               <h2 class="intro-text text-center">Our
                   <strong>Gallery</strong>
               </h2>
               <hr>
-          </div>
+
           <div class="col-lg-12 galleria">
             <img src="img/1.jpg">
     <img src="img/2.jpg">
@@ -345,8 +345,11 @@ massage.</p>
     <img src="img/17.jpg">
     <img src="img/18.jpg">
           </div>
+          <img src="../img/corner2.png" class="corner pull-right">
+        </div>
 
   </div>
+
 </section>
 
 <section id="location">
@@ -354,13 +357,14 @@ massage.</p>
       <div class="box" id="location">
 
           <div class="col-lg-12">
+              <img src="../img/corner3.png" class="corner2 pull-left">
 
               <hr>
               <h2 class="intro-text text-center">Our
                   <strong>Location</strong>
               </h2>
               <hr>
-          </div>
+
           <div class="col-md-8">
               <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
               <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3539.892041272295!2d153.05795431505692!3d-27.472620182889703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a2aeba9f577%3A0x2eed831aea6a1a04!2s223+Wynnum+Rd%2C+Norman+Park+QLD+4170!5e0!3m2!1sen!2sau!4v1450669378280"></iframe>
@@ -385,12 +389,14 @@ massage.</p>
                   <strong>223 Wynnum Road
                       <br>Norman Park 4170</strong>
               </p>
-              <div class="fb-like" data-href="https://www.facebook.com/spadesiambrisbane" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
+              <div class="fb-like" data-href="https://www.facebook.com/spadesiambrisbane" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
           </div>
+          <img src="../img/corner2.png" class="corner pull-right">
 
    </div>
 
+</div>
   </div>
 
 </section>
@@ -399,6 +405,7 @@ massage.</p>
   <div class="row">
       <div class="box">
           <div class="col-lg-12">
+              <img src="../img/corner3.png" class="corner2 pull-left">
               <hr>
               <h2 class="intro-text text-center">Make a
                   <strong>Booking</strong>
@@ -439,6 +446,7 @@ massage.</p>
                   </div>
               </form>
             </div>
+            <img src="../img/corner2.png" class="corner pull-right">
           </div>
 
       </div
