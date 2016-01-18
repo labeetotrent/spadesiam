@@ -331,7 +331,7 @@ massage.</p>
     <img src="img/3.jpg">
     <img src="img/4.jpg">
     <img src="img/5.jpg">
-    <img src="img/18.jpg">
+    <img src="img/19.jpg">
     <img src="img/20.jpg">
     <img src="img/21.jpg">
     <img src="img/18.jpg">
