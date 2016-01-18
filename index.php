@@ -9,8 +9,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Authentic and relaxing Thai Massage conveniently located in East Brisbane">
-    <meta name="keywords" content="Brisbane,Thai,Massage,Relaxation,Aromatherapy,Traditional Thai Massage, Day Spa, Massage Therapist, Beauty Treatments, Deep Tissue Massage, Authentic"
+    <meta name="description" content="Authentic and relaxing Thai Massage, Aromatherapy and Spa conveniently located in Norman Park, East Brisbane">
+    <meta name="keywords" content="Brisbane,Thai,Massage,Relaxation,Aromatherapy,Traditional Thai Massage, Day Spa, Massage Therapist, Beauty Treatments, Deep Tissue Massage, Authentic, Norman Park"
     <meta name="author" content="TrentIT">
 
     <title>Spa De Siam</title>
@@ -331,6 +331,21 @@ massage.</p>
     <img src="img/3.jpg">
     <img src="img/4.jpg">
     <img src="img/5.jpg">
+    <img src="img/18.jpg">
+    <img src="img/20.jpg">
+    <img src="img/21.jpg">
+    <img src="img/18.jpg">
+    <img src="img/22.png">
+    <img src="img/23.png">
+    <img src="img/24.png">
+    <img src="img/25.png">
+    <img src="img/26.png">
+    <img src="img/27.png">
+    <img src="img/28.png">
+    <img src="img/29.png">
+    <img src="img/30.png">
+
+
     <img src="img/6.jpg">
     <img src="img/7.jpg">
     <img src="img/8.jpg">
