@@ -187,7 +187,7 @@ massage.</p>
 <li>Stimulates internal organs</li>
 <li>Relieves fatigue, swollen limbs, painful joints, and headaches</li>
 </ul></p>
-<h2>Visit us on <a href="https://www.facebook.com/spadesiambrisbane"><i class="fa fa-facebook-square"></i></a> for our latest special deals!</h2>
+<h3>Visit us on <a href="https://www.facebook.com/spadesiambrisbane"><i class="fa fa-facebook-square"></i></a> for our latest special deals!</h3>
   <img src="../img/corner2.png" class="corner pull-right">
                 </div>
             </div>
