@@ -152,7 +152,7 @@
                         <strong>Us</strong>
                     </h2>
                     <hr>
-                 <img class="img-responsive img-border img-left" src="img/chalita.jpg" alt="" style="border-radius:20px;">
+          <!-- <img class="img-responsive img-border img-left" src="img/chalita.jpg" alt="" style="border-radius:20px;"> -->
                     <hr class="visible-xs">
                     <p><b>Spa facilities</b><br/>
 
