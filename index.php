@@ -341,24 +341,16 @@ massage.</p>
     <img src="img/25.png">
     <img src="img/26.png">
     <img src="img/27.png">
-    <img src="img/28.png">
     <img src="img/29.png">
     <img src="img/30.png">
 
 
     <img src="img/6.jpg">
     <img src="img/7.jpg">
-    <img src="img/8.jpg">
-    <img src="img/9.jpg">
     <img src="img/10.jpg">
     <img src="img/11.jpg">
-    <img src="img/12.jpg">
-    <img src="img/13.jpg">
-    <img src="img/14.jpg">
     <img src="img/15.jpg">
     <img src="img/16.jpg">
-    <img src="img/17.jpg">
-    <img src="img/18.jpg">
           </div>
           <img src="../img/corner2.png" class="corner pull-right">
         </div>
