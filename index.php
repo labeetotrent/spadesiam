@@ -334,7 +334,6 @@ massage.</p>
     <img src="img/19.jpg">
     <img src="img/20.jpg">
     <img src="img/21.jpg">
-    <img src="img/18.jpg">
     <img src="img/22.png">
     <img src="img/23.png">
     <img src="img/24.png">
@@ -343,14 +342,11 @@ massage.</p>
     <img src="img/27.png">
     <img src="img/29.png">
     <img src="img/30.png">
-
-
     <img src="img/6.jpg">
     <img src="img/7.jpg">
     <img src="img/10.jpg">
     <img src="img/11.jpg">
     <img src="img/15.jpg">
-    <img src="img/16.jpg">
           </div>
           <img src="../img/corner2.png" class="corner pull-right">
         </div>
